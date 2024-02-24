@@ -1,0 +1,25 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+P
+ src/main/java/org/example/A.java,7\c\7cb6ae4caaaad66886c241d79c0d0449cff80213
+S
+#src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
+W
+'src/main/java/org/example/Example1.java,9\a\9ab6ed2fe17658d10ef1d72d07fb345a73c8cbbf
+W
+'src/main/java/org/example/Example2.java,a\3\a30a670e415bd755bec2ef742f801e54f189c4c4
+S
+#src/main/java/org/example/Pair.java,5\e\5e16ef023846d64edff65ea07f9e6128d2587a03
+S
+#src/main/java/org/example/Node.java,8\f\8f8f6d6d49764f416dc77d0fc1c68fb692c9adeb
+W
+'src/main/java/org/example/Examole3.java,d\f\df7f04baad9a8cceaa4d6877dc410bf3e6c3760d
+W
+'src/main/java/org/example/Example3.java,9\b\9bb5e13794997098f9d843d9a662fce7503110c7
+W
+'src/main/java/org/example/Example5.java,0\9\09a513df4ac836dd76cdf34254475e6f867bd6f0
+Y
+)src/main/java/lessons16/MyLinkedList.java,e\b\eba9b661a596489c2330cd40b0d7503148142d8d
+S
+#src/main/java/lessons16/MYList.java,4\e\4e214b7efcf3b01a31c5c2994025b7299aae9c77
