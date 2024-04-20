@@ -2,7 +2,7 @@ package lessons31;
 
 import java.util.Date;
 
-public class Example3_Qwerty {
+public class Main {
     public static void main(String[] args) {
         // TODO:
         Date date = new Date();
