@@ -3,7 +3,7 @@ package lessons31;
 import java.util.Date;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String... args) {
         // TODO:
         Date date = new Date();
         System.out.println(date);
@@ -16,7 +16,7 @@ public class Main {
         System.out.println(current.getDay());
         System.out.println(current.getTime() );
         System.out.println("Izm");
-        System.out.println("add new branch dev");
+        System.out.println("=================");
 
     }
 }
