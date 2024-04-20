@@ -2,7 +2,7 @@ package lessons31;
 
 import java.util.Date;
 
-public class Example3 {
+public class Example3_Qwerty {
     public static void main(String[] args) {
         Date date = new Date();
         System.out.println(date);
@@ -13,6 +13,7 @@ public class Example3 {
         System.out.println(current.getMonth());
         System.out.println(current.getDate());
         System.out.println(current.getDay());
-        System.out.println(current.getTime());
+        System.out.println(current.getTime() );
+        System.out.println("Izm");
     }
 }
