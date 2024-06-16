@@ -132,3 +132,12 @@ U
 %src/main/java/lessons30/Example2.java,a\2\a2bbf4bb5c3bc4e8a9b0fcb2982d098067ff3e01
 7
 Doc.txt,7\4\74bfc8da3393f8f2964e7d583c8f0fd534ee923a
+U
+%src/main/java/lessons30/Example3.java,c\9\c9675e2bb470a9f99eb9f1e4eec9f67a257c225e
+U
+%src/main/java/lessons30/Example1.java,1\9\196394323a34df096e5d66d81e6516bd53b5a773
+U
+%src/main/java/lessons31/Example2.java,3\d\3dc5756469019984d942e1a9824221dd21d1e4bf
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
