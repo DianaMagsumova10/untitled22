@@ -4,7 +4,6 @@ import java.util.Date;
 
 public class Main {
     public static void main(String[] args) {
-        // TODO:
         Date date = new Date();
         System.out.println(date);
         Date burthday = new Date(91,10,10);
@@ -15,8 +14,10 @@ public class Main {
         System.out.println(current.getDate());
         System.out.println(current.getDay());
         System.out.println(current.getTime() );
-        System.out.println("Izm");
-        System.out.println("add new branch dev");
+        System.out.println("Izm.... ha ha");
+        System.out.println("add new branch dev!!!!!");
+
+
 
     }
 }
