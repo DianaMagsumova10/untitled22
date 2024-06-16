@@ -136,8 +136,6 @@ U
 %src/main/java/lessons30/Example3.java,c\9\c9675e2bb470a9f99eb9f1e4eec9f67a257c225e
 U
 %src/main/java/lessons30/Example1.java,1\9\196394323a34df096e5d66d81e6516bd53b5a773
-U
-%src/main/java/lessons31/Example2.java,3\d\3dc5756469019984d942e1a9824221dd21d1e4bf
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

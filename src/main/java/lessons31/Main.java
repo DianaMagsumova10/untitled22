@@ -14,8 +14,9 @@ public class Main {
         System.out.println(current.getDate());
         System.out.println(current.getDay());
         System.out.println(current.getTime() );
-        System.out.println("Izm....");
+        System.out.println("Izm.... ha ha");
         System.out.println("add new branch dev!!!!!");
+
 
 
     }
